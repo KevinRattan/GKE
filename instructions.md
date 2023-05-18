@@ -58,7 +58,7 @@ Pod Security Standards
 6. Verify that the pod did, in fact, get deployed:
 
     ```bash
-    kubectl get pods -ns baseline-ns
+    kubectl get pods -n baseline-ns
     ```
 
 7. Apply the manifest to the restrive namespace:
