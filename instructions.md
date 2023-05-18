@@ -45,7 +45,7 @@ Pod Security Standards
     > admit pods that violate standards
 
 4. Using the **Cloud Shell editor**, create a new file name `podsec.yaml`. Copy
-   the code from the [podspec.yaml](https://github.com/roitraining/GKE-Remix/blob/main/podspec.yaml) file and paste it into your local file.
+   the code from the [[podspec.yaml](https://github.com/roitraining/GKE-Remix/blob/main/podsec.yaml)](https://github.com/roitraining/GKE-Remix/blob/main/podspec.yaml) file and paste it into your local file.
 
 5. Apply the new configuration to the permissive namespace:
 
