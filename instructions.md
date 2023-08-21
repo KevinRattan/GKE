@@ -61,7 +61,7 @@ Pod Security Standards
     kubectl get pods -n baseline-ns
     ```
 
-7. Apply the manifest to the restrive namespace:
+7. Apply the manifest to the restriced namespace:
 
     ```bash
     kubectl apply -f podsec.yaml --namespace=restricted-ns
